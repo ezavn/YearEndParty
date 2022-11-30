@@ -7,7 +7,7 @@ const PopupOrganization = () => {
     <>
       {showOrganization ? (
         <div className="fixed bg-[rgba(0,0,0,0.5)] inset-0 z-[999] flex items-center justify-center">
-          <div className="relative w-[300px] md:w-[550px] md:h-[580px] bg-black text-white flex flex-col mt-[30px]">
+          <div className="relative w-[300px] md:w-[550px] md:h-[600px] bg-black text-white flex flex-col mt-[30px]">
             <img
               className="w-[40px] h-[40px] top-[-40px] right-[-40px] md:w-auto md:h-auto absolute md:top-[-85px] md:right-[-80px] cursor-pointer"
               src="/images/btn-close.png"
@@ -24,7 +24,9 @@ const PopupOrganization = () => {
               <p className="text-justify">
                 Khách hàng có thể tùy ý lựa chọn khu vực tiệc trong nhà hoặc
                 ngoài trời và trang trí decor không gian tiệc theo yêu cầu.{" "}
-                <br /> *Đặc quyền của Khách hàng:
+              </p>
+              <p className="font-medium uppercase text-yellow py-[10px]">
+                Đặc quyền của Khách hàng
               </p>
               <ul className="popup-check text-[14px] md:text-[20px]">
                 <li>

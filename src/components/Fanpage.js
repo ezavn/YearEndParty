@@ -66,8 +66,8 @@ const Fanpage = () => {
             <div className="inline-flex w-full items-center justify-center max-w-[620px] h-[84px] border border-black font-bold text-[20px] md:text-[28px] mb-[25px] mt-[30px] flex-wrap">
               GIÁ DỊCH VỤ:{" "}
               <span className="text-[28px] md:text-[32px] ml-[10px]">
-                Từ 5,899,000VNĐ/
-                <span className="text-[20px] md:text-[24px]">Khách</span>
+                Từ 5,000,000VNĐ/
+                <span className="text-[20px] md:text-[24px]">Tháng</span>
               </span>
             </div>
             <div></div>
