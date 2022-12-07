@@ -5,7 +5,7 @@ const Register = () => {
   return (
     <section
       id="contact"
-      className="register bg-[url('../public/images/register-bg.png')] py-[40px] md:py-[50px] bg-center bg-no-repeat bg-cover"
+      className="register bg-[url('../public/images/register-dark.png')] py-[40px] md:py-[50px] bg-center bg-no-repeat bg-cover"
     >
       <div className="page-container md:mx-[60px]">
         <h2 className="text-[32px] md:text-[64px] text-white mb-[20px] leading-[1] text-center">

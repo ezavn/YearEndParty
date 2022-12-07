@@ -17,8 +17,8 @@ const PopupVideo = () => {
             <iframe
               width="956"
               height="538"
-              src="https://www.youtube.com/embed/NnIC_0iXLR8?autoplay=1"
-              title="Tổ chức Year End Party | WOW Multimedia"
+              src="https://www.youtube.com/embed/T1f-AXgc-Us"
+              title="Tổ chức sự kiện Year-End Party | WOW Multimedia"
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen"
               allowfullscreen
